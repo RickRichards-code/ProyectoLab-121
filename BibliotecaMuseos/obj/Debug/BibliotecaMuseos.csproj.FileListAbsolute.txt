@@ -1,0 +1,11 @@
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\bin\Debug\BibliotecaMuseos.exe.config
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\bin\Debug\BibliotecaMuseos.exe
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\bin\Debug\BibliotecaMuseos.pdb
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.csproj.AssemblyReference.cache
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.Form1.resources
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.Properties.Resources.resources
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.csproj.GenerateResource.cache
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.csproj.CoreCompileInputs.cache
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.exe
+C:\Users\enrri\source\repos\BibliotecaMuseos\BibliotecaMuseos\obj\Debug\BibliotecaMuseos.pdb
